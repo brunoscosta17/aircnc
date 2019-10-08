@@ -1,0 +1,9 @@
+{
+  "name": "aircnc",
+  "version": "1.0.0",
+  "description": "aircnc - code and coffe",
+  "main": "index.js",
+  "repository": "git@github.com:brunoscosta17/aircnc.git",
+  "author": "Bruno Costa",
+  "license": "MIT"
+}
