@@ -30,3 +30,4 @@ Ao terminar a instalação, execute o comando abaixo para executar o projeto bac
   Ao terminar a instalação, execute o comando abaixo para executar o projeto backend:
   
     yarn start
+    
